@@ -1,12 +1,12 @@
 export const config = {
   tokenName: "$WOJAK",
   network: "Arbitrum",
-  contractAddress: "",
-  contractDisplay: "CA NOT ANNOUNCED",
-  contractUrl: "https://arbiscan.io/tokens",
+  contractAddress: "0xc117e2cec8de43c570b2f0c0a2fd5b24604fcba3",
+  contractDisplay: "0xc117e2cec8de43c570b2f0c0a2fd5b24604fcba3",
+  contractUrl: "https://arbiscan.io/token/0xc117e2cec8de43c570b2f0c0a2fd5b24604fcba3",
   tax: "0%",
-  buyUrl: "https://app.uniswap.org/swap?chain=arbitrum",
-  chartUrl: "#chart",
+  buyUrl: "https://bankr.bot/terminal/trade?out=0xc117e2cec8de43c570b2f0c0a2fd5b24604fcba3&chain=arbitrum",
+  chartUrl: "https://www.geckoterminal.com/robinhood/pools/0x5199aC816bB324643c2195831eE835CcEaAAC2D0",
   xUrl: "https://x.com/arbitrumwojak",
   arbitrumUrl: "https://arbitrum.io/",
 };
