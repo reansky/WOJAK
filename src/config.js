@@ -1,12 +1,12 @@
 export const config = {
   tokenName: "$WOJAK",
   network: "Arbitrum",
-  contractAddress: "0xc117e2cec8de43c570b2f0c0a2fd5b24604fcba3",
-  contractDisplay: "0xc117e2cec8de43c570b2f0c0a2fd5b24604fcba3",
-  contractUrl: "https://arbiscan.io/token/0xc117e2cec8de43c570b2f0c0a2fd5b24604fcba3",
+  contractAddress: "0xe78c6017c4d555ef90b4e9a3821b7ab3a2810ba3",
+  contractDisplay: "0xe78c6017c4d555ef90b4e9a3821b7ab3a2810ba3",
+  contractUrl: "https://arbiscan.io/token/0xe78c6017c4d555ef90b4e9a3821b7ab3a2810ba3",
   tax: "0%",
-  buyUrl: "https://bankr.bot/terminal/trade?out=0xc117e2cec8de43c570b2f0c0a2fd5b24604fcba3&chain=arbitrum",
-  chartUrl: "https://www.geckoterminal.com/arbitrum/pools/0x0fb8e296e1a9066e944cc3b5cb209bc4c98e69b5fb460d3d9a4264570e475b1b",
+  buyUrl: "https://bankr.bot/terminal/trade?out=0xe78c6017c4d555ef90b4e9a3821b7ab3a2810ba3&chain=arbitrum",
+  chartUrl: "https://www.geckoterminal.com/arbitrum/pools/0xf7d0077e2cd150f161ff113458241970a44dc5e5afb8ee00a19601b2528de658",
   xUrl: "https://x.com/arbitrumwojak",
   arbitrumUrl: "https://arbitrum.io/",
 };
